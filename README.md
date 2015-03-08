@@ -1,4 +1,4 @@
-# prosthesis hand on cheap
+# Prosthesis hand on cheap
 
 A prosthesis is simply too expensive for many people who really need support,
 what we see is like making a prosthesis from a toy previously acquired to modify and
